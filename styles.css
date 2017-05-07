@@ -108,7 +108,7 @@ HOME PAGE
 
 header {
   text-align: center;
-  background: url('../images/rsz_leserables.jpg') no-repeat top center;
+  background: url('images/rsz_leserables.jpg') no-repeat top center;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
@@ -235,15 +235,15 @@ POOCH PAGE
 }
 
 .contact-info li.phone a {
-  background-image: url('../images/phone.png');
+  background-image: url('images/phone.png');
 }
 
 .contact-info li.mail a {
-  background-image: url('../images/mail.png');
+  background-image: url('images/mail.png');
 }
 
 .contact-info li.twitter a {
-  background-image: url('../images/twitter.png');
+  background-image: url('images/twitter.png');
 }
 
 /* Styles for larger screens */
